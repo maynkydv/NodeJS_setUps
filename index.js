@@ -6,7 +6,7 @@ function checkPositive(number) {
   }
   return false;
 }
-
+    var husky_test = 230 ; 
 const rrt = 203;
 
 console.log(checkPositive(230, x, rrt));
